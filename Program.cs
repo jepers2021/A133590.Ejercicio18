@@ -19,6 +19,9 @@ namespace A133590.Ejercicio18
 
             Console.WriteLine($"Número redondeado a dos decimales: {Math.Round(numero,2)}");
 
+            Console.WriteLine("Presione cualquier tecla para continuar..");
+            Console.ReadKey();
+
 
         }
     }
